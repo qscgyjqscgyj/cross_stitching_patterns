@@ -1,0 +1,1 @@
+DATABASE_URL=postgresql://postgres:12345@cross-stitching-patterns-db:5432/cross-stitching-patterns-db?schema=public
